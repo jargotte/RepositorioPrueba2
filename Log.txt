@@ -1,1 +1,3 @@
 Este archivo sera utilziado para guardar informacion de log de cambios.
+Importante cambio
+
